@@ -1,0 +1,24 @@
+{
+  "name": "cw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "jingo -c config.yaml",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-ahmadi/cw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-ahmadi/cw/issues"
+  },
+  "homepage": "https://github.com/m-ahmadi/cw#readme",
+  "dependencies": {
+    "jingo": "^1.9.2"
+  }
+}
