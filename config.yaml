@@ -48,7 +48,7 @@ features:
   gravatar: true
 server:
   hostname: localhost
-  port: 6067
+  port: 3000
   localOnly: true
   baseUrl: ''
   CORS:
