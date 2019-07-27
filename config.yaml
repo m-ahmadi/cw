@@ -4,7 +4,7 @@ application:
   title: Jingo
   logo: ''
   favicon: ''
-  repository: 'E:\xampp\htdocs\cw'
+  repository: 'D:\xampp\htdocs\cw'
   docSubdir: ''
   remote: 'origin'
   pushInterval: 30
