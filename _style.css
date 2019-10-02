@@ -1,0 +1,13 @@
+div.container {
+	width: 100%;
+	padding: 0px 40px;
+}
+
+div.with-sidebar {
+	width: 19%;
+	margin-right: 1%;
+}
+
+div#main {
+	width: 80%;
+}
